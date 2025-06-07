@@ -11,5 +11,8 @@ Nele foi adicionado:
 
 2 - Aba para adicionar os bancos, valores contidos em cada um deles e anexos dos mesmos;
 
-3 - Aba para descrever notas bancárias e holerites, com opções de entradas e saídas.
+3 - Aba para descrever notas bancárias e holerites, com opções de entradas e saídas;
 
+4 - Foi utilizada uma paleta que tinha como base as cores #ffb997, #f67e7d, #843b62, #0b032d, #74546a e suas respectivas variações;
+
+5 - As imagens foram retiradas do google.
